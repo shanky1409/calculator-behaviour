@@ -1,4 +1,4 @@
-# Addition
+# Addition Scenario
 
 ## Scenario: Addition of two positive number
   
