@@ -1,4 +1,4 @@
-# Multiplication
+# Multiplication Scenario
 
 ## Scenario: Multiplication of two positive number
   
