@@ -64,7 +64,7 @@
   And I type in "positive/negative number"
   And I press "equals"
   
-  Then consider only the last operator
+  Then consider the last operator
 
 ## Scenario: Addition is symmetric
   

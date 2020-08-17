@@ -64,7 +64,7 @@
   And I type in "positive/negative number"
   And I press "equals"
   
-  Then consider only the last operator
+  Then consider the last operator
 
 ## Scenario: Multiplication is symmetric
   
@@ -81,7 +81,7 @@
   
   Given that I turn on the calculator
   
-  When I type in "1"
+  When I type in "0"
   And I press "multiply operator"
   And I type in "positive/negative number"
   And I press "equals"
