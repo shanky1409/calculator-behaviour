@@ -66,6 +66,17 @@
   
   Then I see the error message as invalid operation
 
+## Scenario: Addition is symmetric
+  
+  Given that I turn on the calculator
+  
+  When I type a unique "positive/negative number(A)"
+  And I press "plus"
+  And I type in another unique "positive/negative number(B)"
+  And I press "equals"
+  
+  Then the number is euqal to "B+A"
+
 ## Scenario: Addition of Identity operation
   
   Given that I turn on the calculator
