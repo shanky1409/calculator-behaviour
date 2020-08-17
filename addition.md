@@ -44,17 +44,6 @@
   
   Then I see the "added number with precision upto 2 digits" as the result
 
-## Scenario: Addition of two fraction number
-  
-  Given the calculator is turned on
-  
-  When I type in "decimal/fraction number"
-  And I press "plus"
-  And I type in "decimal/fraction number"
-  And I press "equals"
-  
-  Then I see the "added number with precision upto 2 digits" as the result
-
 ## Scenario: Addition of positive and negative number
   
   Given the calculator is turned on
@@ -76,7 +65,7 @@
   And I press "equals"
   
   Then I see the error message as invalid operation 
-  
+
 ## Scenario: Addition of Identity operation
   
   Given the calculator is turned on
