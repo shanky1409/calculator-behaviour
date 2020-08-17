@@ -42,7 +42,7 @@
   And I type in "decimal number"
   And I press "equals"
   
-  Then I see the "added number with precision upto 2 digits" as the result
+  Then I see the "added number with precision up to 2 digits" as the result
 
 ## Scenario: Addition of positive and negative number
   
