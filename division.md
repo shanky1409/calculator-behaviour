@@ -1,4 +1,4 @@
-# Division
+# Division Scenario
 
 ## Scenario: Division of two positive number
   
