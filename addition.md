@@ -64,7 +64,7 @@
   And I type in "positive/negative number"
   And I press "equals"
   
-  Then I see the error message as invalid operation 
+  Then I see the error message as invalid operation
 
 ## Scenario: Addition of Identity operation
   
