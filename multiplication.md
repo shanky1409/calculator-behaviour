@@ -1,6 +1,6 @@
 # Multiplication Scenario
 
-## Scenario: Multiplication of two positive number
+## Scenario: Multiplication of two positive numbers
   
   Given that I turn on the calculator
   
