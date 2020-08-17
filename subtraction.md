@@ -1,4 +1,4 @@
-# Subtraction
+# Subtraction Scenario
 
 ## Scenario: Subtraction of two positive number
   
