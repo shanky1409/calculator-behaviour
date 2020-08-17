@@ -75,7 +75,7 @@
   And I type in another unique "positive/negative number(B)"
   And I press "equals"
   
-  Then the number is euqal to " (B + A)"
+  Then the number is equal to "(B + A)"
 
 ## Scenario: Addition of Identity operation
   
