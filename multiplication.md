@@ -9,7 +9,7 @@
   And I type in "positive number"
   And I press "equals"
   
-  Then I see the poduct of the numbers as the result
+  Then I see the product of the numbers as the result
 
 ## Scenario: Multiplication of two negative number
   
@@ -20,7 +20,7 @@
   And I type in "negative number"
   And I press "equals"
   
-  Then I see the poduct of the numbers as the result
+  Then I see the product of the numbers as the result
 
 ## Scenario: Multiplication of two fraction number
   
@@ -31,7 +31,7 @@
   And I type in "fraction number"
   And I press "equals"
   
-  Then I see the poduct of the numbers in fraction as the result
+  Then I see the product of the numbers in fraction as the result
 
 ## Scenario: Multiplication of two decimal number
   
@@ -42,7 +42,7 @@
   And I type in "decimal number"
   And I press "equals"
   
-  Then I see, poduct of the numbers with precision up to 2 digit as the result
+  Then I see, product of the numbers with precision up to 2 digit as the result
 
 ## Scenario: Multiplication of positive and negative number
   
@@ -53,7 +53,7 @@
   And I type in "negative number"
   And I press "equals"
   
-  Then I see the poduct of the numbers as the result
+  Then I see the product of the numbers as the result
 
 ## Scenario: Typing operators more than once
   
