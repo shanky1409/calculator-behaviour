@@ -2,7 +2,7 @@
 
 ## Scenario: Addition of two positive number
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "positive number"
   And I press "plus"
@@ -13,7 +13,7 @@
 
 ## Scenario: Addition of two negative number
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "negative number"
   And I press "plus"
@@ -24,7 +24,7 @@
 
 ## Scenario: Addition of two fraction number
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "fraction number"
   And I press "plus"
@@ -35,7 +35,7 @@
 
 ## Scenario: Addition of two decimal number
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "decimal number"
   And I press "plus"
@@ -46,7 +46,7 @@
 
 ## Scenario: Addition of positive and negative number
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "positive number"
   And I press "plus"
@@ -57,7 +57,7 @@
 
 ## Scenario: Typing operators more than once
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "positive/negative number"
   And I press "plus twice"
@@ -68,7 +68,7 @@
 
 ## Scenario: Addition of Identity operation
   
-  Given the calculator is turned on
+  Given that I turn on the calculator
   
   When I type in "0"
   And I press "plus"
